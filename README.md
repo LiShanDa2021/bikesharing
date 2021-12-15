@@ -1,5 +1,5 @@
 # Citi Bike NYC
-## An analysis of a bikeshare platform for the purpose of future expansion
+An analysis of a bikeshare platform for the purpose of future expansion
 
 ## Overview
 The purpose of this analysis is to break down the data from the Citi Bike platform to determine if expanding the platform to Des Moines Iowa is feasible.
@@ -18,3 +18,6 @@ From the visualizations I have created [here](https://public.tableau.com/shared/
 
 Summary:
 While the above results paint a detailed picture of the service in New York, they say little about the feasibility of such a service in Des Moines Iowa -- a very different city than New York. One piece of evidence in favor of expanding the service to Des Moines is the Trips by Weekday data which shows the service is heavily used on Saturday which means it is used for leisure. Outdoor leisure activities are popular in Des Moines as Des Moines has lots of green space. Other habits of Des Moinians remain a mystery however. Before making the final pitch to expand the service it would be wise to create some visualizations of data for Des Moines. I could create a map of Des Moines' green space and find data about Des Moinians communting habits or how often they engage in outdoor activities.
+
+[Link to Tableau Story](https://public.tableau.com/shared/FPMPFBZBW?:display_count=n&:origin=viz_share_link)
+
